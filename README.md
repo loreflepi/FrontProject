@@ -1,1 +1,1 @@
-Proyecto de curso de FrontEnd Developer
+Project for FrontEnd Developer course

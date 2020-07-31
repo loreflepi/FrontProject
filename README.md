@@ -1,3 +1,3 @@
 Project for FrontEnd Developer course.
 
-landing page : https://lorevideo.imfast.io/
+landing page : https://loreflepi.github.io/FrontProject/
